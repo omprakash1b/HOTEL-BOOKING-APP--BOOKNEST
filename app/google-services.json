@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "989396943259",
+    "project_id": "booknest-d4d0f",
+    "storage_bucket": "booknest-d4d0f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:989396943259:android:1ce1ce06b592c45247613e",
+        "android_client_info": {
+          "package_name": "com.example.booknest"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAIWSP_OobTMuaWgbeOEfjsg-UWkW_qADg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
