@@ -45,7 +45,45 @@ Welcome to the Hotel Booking App! This application allows users to search for ho
 
 ## Screenshots
 
-*Include some screenshots of your app here.*
+Splash Screen
+
+![WhatsApp Image 2024-08-03 at 22 05 32](https://github.com/user-attachments/assets/3a8eb32e-f73e-4055-9d98-5183464ff8ca)
+
+Login/Sign Up Screen
+
+![WhatsApp Image 2024-08-03 at 22 05 34 (2)](https://github.com/user-attachments/assets/2d014cce-3fbc-4b97-bee9-9bb47f6a0198)
+
+Otp Screen
+
+![WhatsApp Image 2024-08-03 at 22 05 35](https://github.com/user-attachments/assets/8c0ed191-2ddc-4d15-af83-b7631127340f)
+
+Find Room Screen
+
+![WhatsApp Image 2024-08-03 at 22 05 32 (1)](https://github.com/user-attachments/assets/a31b7dd3-cdf2-4460-b776-5e542c7c9e6a)
+
+Select Hotel Screen
+
+![WhatsApp Image 2024-08-03 at 22 05 32 (2)](https://github.com/user-attachments/assets/db299692-7d3b-4723-bbbc-e22622a6c41b)
+
+Select Room Screen
+
+![WhatsApp Image 2024-08-03 at 22 05 33](https://github.com/user-attachments/assets/7b7f604d-f88e-4a76-b3e3-87ed4ac9c19a)
+
+![WhatsApp Image 2024-08-03 at 22 05 33 (1)](https://github.com/user-attachments/assets/f7ac4e24-2c9a-4564-971d-2bcd6c828b0b)
+
+Check Out Screen
+
+![WhatsApp Image 2024-08-03 at 22 05 33 (2)](https://github.com/user-attachments/assets/125f7d03-7bfa-4299-97cd-12be7d87e3c9)
+
+![WhatsApp Image 2024-08-03 at 22 05 33 (3)](https://github.com/user-attachments/assets/8b1ad861-9a24-4cbc-ac79-4b3a234a8da2)
+
+Where2Go Screen
+
+![WhatsApp Image 2024-08-03 at 22 05 34](https://github.com/user-attachments/assets/9d091e10-bb47-4e35-a186-eff00d66805d)
+
+Places Screen
+
+![WhatsApp Image 2024-08-03 at 22 05 34 (1)](https://github.com/user-attachments/assets/1bc4dc80-d038-4d0f-844d-2a5d8cfc9a27)
 
 
 ## Contact
